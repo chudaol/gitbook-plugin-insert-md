@@ -9,7 +9,7 @@ Plugin for gitbook for adding given md code to each page before the content
       "insert-md"
     ]
 
-- Add plugin configuration specifying css and js files to include:
+- Add plugin configuration specifying markdown code to be inserted:
 
 
     "pluginsConfig": {
