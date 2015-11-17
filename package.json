@@ -1,0 +1,17 @@
+{
+  "name": "gitbook-plugin-insert-md",
+  "version": "1.0.0",
+  "description": "Adds given md code to each and every page of a book right before the content",
+  "keywords": ["markdown", "gitbook"],
+  "author": {
+    "name": "Olga Filipova",
+    "email": "chudaol@gmail.com"
+  },
+  "repository": {
+      "type" : "git",
+      "url" : "https://github.com/chudaol/gitbook-plugin-insert-md"
+  },
+  "engines": {
+    "gitbook": ">1.x.x"
+  }
+}
