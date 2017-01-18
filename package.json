@@ -1,6 +1,6 @@
 {
   "name": "gitbook-plugin-insert-md",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Adds given md code to each and every page of a book right before the content",
   "keywords": ["markdown", "gitbook"],
   "author": {
